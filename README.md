@@ -1,7 +1,7 @@
 # PWA Text Editor
 
 ## Description
-This is a progressive web application which is a basic text editor program. Unlike a static site, this application can be downloaded off the site to a local device in order to be used offline. 
+This is a progressive web application which is a basic text editor program. Unlike a static site, this application can be downloaded off the site to a local device in order to be used offline. The content is bundled using webpack and service workers for caching and integration with indexedDB.
 
 ## Installation
 On the developer side, clone the repo from GitHub. Make sure to run the following commands: npm i, npm run build, npm run start:dev.
